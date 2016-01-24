@@ -6,6 +6,8 @@ Fun fact: Chicago should be pronounced as "shi-ka-go". I just learned it from [T
 
 The Elm code in this repository is compatible with [Elm 0.16](https://github.com/elm-lang/elm-platform/blob/master/upgrade-docs/0.16.md). A compiled, un-minified HTML is also provided.
 
+This repository can be found live at https://franklsf.org/elm-stuff/.
+
 ### Monte Carlo Pi
 
 ![Monte Carlo Pi Approximation](./MonteCarloPi/ThumbPi.gif)
